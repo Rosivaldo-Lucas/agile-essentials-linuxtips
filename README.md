@@ -40,3 +40,19 @@ O desenvolvimento de um projeto com XP tem um ciclo contínuo e com quatro fases
 * **Codificação:** Dúvidas surgirão no desenvolvimento. Por isso, o usuário ou cliente devem estar sempre acessíveis para responder às perguntas. Fica a cargo da equipe em decidir como será o desenvolvimento das soluções. É recomendado que a codificação comece pelos testes, utilizando a abordagem Test Driven Development (TDD), mas não é uma regra.
   
 * **Testes:** Por fim, os testes devem ser realizados. Aqui os bugs devem ser priorizados, a cada bug encontrado ele deve ser resolvido imediatamente e, a primeira coisa a ser feita, é criar um teste que detecte esse bug, depois a solução.
+
+## Aula 4 - O Product Owner (Dono do Produto)
+
+Preferencialmente o **Product Owner** deve ser alguém que seja o cliente ou o usuário do que será desenvolvido. Na maioria das vezes isso não é possível e o mais comum é termos o **Proxy Product Owner**: a pessoa que vai buscar entender as necessidades (e os possíveis desejos) dos clientes e usuários da solução desenvolvida. O Product Owner junto com usuários e os patrocinadores do projeto, irá criar a lista de histórias a serem desenvolvidas.
+
+Exemplos de criação de histórias:
+
+    Como {ator}, desejo {realizar ação} para {atingir objetivo}
+
+---
+    
+    Como estudante, desejo consultar as opções de refeições em locais próximos para escolher onde vou almoçar, com base em pontuações de outros estudantes.
+
+As histórias serão apresentadas à equipe de desenvolvimento, em um **Product Backlog**, que discutirá quais delas podem ser desenvolvidas no período do Sprint, que pode ser de uma, duas ou quatro semanas.
+
+Junto com o time de desenvolvimento, o **Product Owner** irá discutir e refinar as histórias descritas no **Product Backlog**, afim de melhorar o entendimento da equipe.
