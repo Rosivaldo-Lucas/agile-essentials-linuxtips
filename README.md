@@ -67,6 +67,8 @@ O Scrum Master também deve se manter atualizado. Ele deverá ser capaz de escla
 
 O rito mais importante do Scrum é a reunião diária. Essa reunião é tão efetiva que muitas organizações acabam nem implementando o Scrum além disso porque já se dão por satisfeitas, o que é um "mau cheiro". O Scrum vai muito além disso e o Scrum Master deve orientar todos quanto a necessidade do cumprimento dos demais ritos e o preenchimento dos artefatos (Product Backlog, Sprint Backlog, Burndown Chart).
 
+O Scrum Master também deve atuar blindando a equipe de desenvolvimento contra interferências externas durante o período da Sprint.
+
 Perguntas que devem ser respondidas na Reunião Diária:
 
 * O que fiz no dia anterior para contribuir com o objetivo do Sprint (o período de desenvolvimento).
