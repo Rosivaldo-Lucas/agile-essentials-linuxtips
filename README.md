@@ -56,3 +56,21 @@ Exemplos de criação de histórias:
 As histórias serão apresentadas à equipe de desenvolvimento, em um **Product Backlog**, que discutirá quais delas podem ser desenvolvidas no período do Sprint, que pode ser de uma, duas ou quatro semanas.
 
 Junto com o time de desenvolvimento, o **Product Owner** irá discutir e refinar as histórias descritas no **Product Backlog**, afim de melhorar o entendimento da equipe.
+
+## Aula 5 - O Scrum Master
+
+O Scrum Master, o sacerdote do Scrum, o guardião-mor dos ritos e artefatos e, fundamentalmente, a pessoa responsável por propagar a palavra do Scrum até para além da equipe.
+
+O Scrum Master é responsável por resolver impedimentos de qualquer natureza e, também deve trabalhar de forma que novos impedimentos de natureza similiar não aconteçam mais.
+
+O Scrum Master também deve se manter atualizado. Ele deverá ser capaz de esclarecer, para a equipe, dúvidas sobre o próprio Scrum.
+
+O rito mais importante do Scrum é a reunião diária. Essa reunião é tão efetiva que muitas organizações acabam nem implementando o Scrum além disso porque já se dão por satisfeitas, o que é um "mau cheiro". O Scrum vai muito além disso e o Scrum Master deve orientar todos quanto a necessidade do cumprimento dos demais ritos e o preenchimento dos artefatos (Product Backlog, Sprint Backlog, Burndown Chart).
+
+Perguntas que devem ser respondidas na Reunião Diária:
+
+* O que fiz no dia anterior para contribuir com o objetivo do Sprint (o período de desenvolvimento).
+  
+* O que pretendo fazer hoje para contribuir com o objetivo do Sprint.
+  
+* O que está atrapalhando o meu trabalho.
