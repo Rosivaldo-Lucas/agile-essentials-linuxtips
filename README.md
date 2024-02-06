@@ -76,3 +76,17 @@ Perguntas que devem ser respondidas na Reunião Diária:
 * O que pretendo fazer hoje para contribuir com o objetivo do Sprint.
   
 * O que está atrapalhando o meu trabalho.
+
+## Aula 6 - A equipe Scrum
+
+O Product Owner está sempre presente para o caso da equipe ter dúvidas, mas fora as reuniões (ritos) de Sprint Planning e Sprint Review, ele só se junta à equipe quando for convidado.
+
+O quadro Scrum é feito pela equipe, uma variação do KanBan, estará sempre visível e não só o Product Owner como todos os patrocinadores e potenciais usuários poderão ver o que está acontecendo, como o trabalho está evoluindo, mas ninguém interrompe o trabalho da equipe durante o Sprint.
+
+Dentro da equipe temos entre três e sete membros (cinco, mais ou menos dois), sempre um número ìmpar. Dentro da equipe todos os talentos necessários para o desenvolvimento do projeto, solução ou produto devem ser do domínio das pessoas da equipe. É comum que nos primeiros Sprints, a equipe tenha dificuldade e seja necessário trazer um especialista para apoiar em algo que ninguém sabe direito.
+
+A equipe Scrum é autogerenciável. No começo de cada Sprint, a equipe vai escolher quantas histórias será capaz de desenvolver. A equipe poderá até negociar com o Product Owner alguma repriorização, a re-escrita ou a divisão das histórias, mas sempre o Producr Owner que tem a palavra final sobre o Product Backlog.
+
+A equipe escolheu as histórias que vai realizar durante o Sprint e as coloca, na forma de Post-Its, no quadro Scrum, que é baseado no KanBan, um quadro de progressão de tarefas. A parte esquerda do quadro ficam as tarefas que irão ser realizadas, no meio, o que está sendo feito e, na direita, o que está conclído.
+
+Todos acompanham a progressão das histórias, verificam a definição de pronto antes de passá-las para a direita do quadro e a expectativa é que, ao final do Sprint, todas as hostórias desenvolvidas possam ser consideradas como entregues pelo Product Owner.
