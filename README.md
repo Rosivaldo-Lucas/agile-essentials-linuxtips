@@ -90,3 +90,21 @@ A equipe Scrum é autogerenciável. No começo de cada Sprint, a equipe vai esco
 A equipe escolheu as histórias que vai realizar durante o Sprint e as coloca, na forma de Post-Its, no quadro Scrum, que é baseado no KanBan, um quadro de progressão de tarefas. A parte esquerda do quadro ficam as tarefas que irão ser realizadas, no meio, o que está sendo feito e, na direita, o que está conclído.
 
 Todos acompanham a progressão das histórias, verificam a definição de pronto antes de passá-las para a direita do quadro e a expectativa é que, ao final do Sprint, todas as hostórias desenvolvidas possam ser consideradas como entregues pelo Product Owner.
+
+## Aula 7 - O Product Backlog
+
+O Product Owner é o dono desse artefato (Product Backlog). O Product Owner não é um desenvolvedor, mas uma pessoa que entende do domínio do produto, que pode ser a pessoa que será beneficiada pelo produto ou uma empresa que acredita que o produto será útil para outras pessoas.
+
+Para a criação das histórias, é recomendado seguir o seguinte modelo de descrição:
+
+```
+Como {autor}, desejo {realizar ação} para {atingir objetivo}
+```
+
+```
+Como estudante, desejo consultar as opções de refeições em locais próximos para escolher onde vou almoçar, com base em pontuações de outros estudantes.
+```
+
+![Backlog](/docs/scrum-backlog-1.png)
+
+![Backlog](/docs/scrum-backlog-2.png)
