@@ -109,7 +109,7 @@ Como estudante, desejo consultar as opções de refeições em locais próximos 
 
 ![Backlog](/docs/scrum-backlog-2.png)
 
-## Aula 8 - O Sprint e seu Planejamento
+## Aula 8 - O Sprint e seu Planejamento (Sprint Planning)
 
 O Product Owner apresenta para a equipe o produto, tudo que se deseja para ele, mas dando ênfase ao que já está priorizado para o Mínimo Produto Viável. É nessa reunião que a equipe tirará as dúvidas sobre as histórias dessa primeira versão, provavelmente subdividirá várias delas em histórias menores e, a partir dessas hostórias o mais definidas possível, escolherá quais se sente a vontade para desenvolver durante o Sprint. Não há obrigação da equipe desenvolver todas as histórias do MVP, apenas aquelas que ela acredita que conseguirá resolver.
 
