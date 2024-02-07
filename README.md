@@ -108,3 +108,21 @@ Como estudante, desejo consultar as opções de refeições em locais próximos 
 ![Backlog](/docs/scrum-backlog-1.png)
 
 ![Backlog](/docs/scrum-backlog-2.png)
+
+## Aula 8 - O Sprint e seu Planejamento
+
+O Product Owner apresenta para a equipe o produto, tudo que se deseja para ele, mas dando ênfase ao que já está priorizado para o Mínimo Produto Viável. É nessa reunião que a equipe tirará as dúvidas sobre as histórias dessa primeira versão, provavelmente subdividirá várias delas em histórias menores e, a partir dessas hostórias o mais definidas possível, escolherá quais se sente a vontade para desenvolver durante o Sprint. Não há obrigação da equipe desenvolver todas as histórias do MVP, apenas aquelas que ela acredita que conseguirá resolver.
+
+Em um Sprint de uma semana, essa reunião de Sprint Planning dura cerca de uma hora. Havendo tempo, a equipe irá discutir com o PO também as histórias seguintes, que não fazem parte do MVP. Quanto mais perto do momento de entrarem no desenvolvimento, mais estas histórias estarão detalhadas, divididas em menores.
+
+![Backlog](/docs/scrum-sprint-planning.png)
+
+Se passado a primeira hora da reunião, a equipe tem mais uma hora para a discussão técnica, sobre como irá desenvolver cada uma das histórias. Bibliotecas, linguagens e técnicas de programação, prerrequisitos. Fica a critério da equipe pedir que o PO participe, ou não, dessa reunião. Mas a equipe poderá chamá-lo sempre que for necessário.
+
+A equipe deve usar sempre um Post-It por histório, e no verso, poderá escrever as tarefas técnicas que resolverão a história. Caso necessário, novos Post-Its podem ser colados em conjunto com o da história original.
+
+No primeiro dia, todas as histórias são colocadas na coluna "A Fazer (TO DO)" do quadro do Scrum.
+
+Feito isso, as histórias deverão ser alocadas a seus resolvedores, e assim o trabalho começa!
+
+No dia seguinte, com todos em frente ao quadro Scrum, as histórias são evoluídas (passam para a coluna "Feito (Done)", novas histórias são trazidas para a coluna "Em Progresso" (In Progress)). O Burndown Chart, é preenchido e a equipe têm todos os dados para acompanhar a evolução do seu trabalho.
