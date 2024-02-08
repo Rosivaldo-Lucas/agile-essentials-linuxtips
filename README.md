@@ -126,3 +126,13 @@ No primeiro dia, todas as histórias são colocadas na coluna "A Fazer (TO DO)" 
 Feito isso, as histórias deverão ser alocadas a seus resolvedores, e assim o trabalho começa!
 
 No dia seguinte, com todos em frente ao quadro Scrum, as histórias são evoluídas (passam para a coluna "Feito (Done)", novas histórias são trazidas para a coluna "Em Progresso" (In Progress)). O Burndown Chart, é preenchido e a equipe têm todos os dados para acompanhar a evolução do seu trabalho.
+
+## Aula 10 - A reunião de revisão do Sprint (Sprint Review)
+
+Essa reunisão acontece no último dia, nas primeiras horas da tarde e dura uma hora. A duração pode aumentar proporcionalmente conforme a duração do Sprint.
+
+A equipe escolhe a ordem em que as histórias serão apresentadas. A equipe, então, faz a demostração das histórias desenvolvidas. O Product Owner pode convidar outras pessoas para essa demostração. O Product Owner pode considerar que uma determinada história, considerada pronta pela equipe, de fato não está pronta. Então a equipe faz as devidas anotações, conversa com o PO e tenta entender se foi problema na especificação da história, na compreensão da equipe, se faltou incluir algo na definição de pronto (e isso será feito nesse exato momento). A equipe deve entender o que aconteceu de errado.
+
+Histórias não consideradas prontas voltam para o próximo Sprint, a não ser que o PO tenha algo mais prioritário já colocado no topo do Product Backlog.
+
+A partir daí há duas opções: a equipe já faz a Sprint Planning para o período seguinte, aproveitando a presença do Product Owner, ou parte para a Revisão do Sprint, a gentil lavagem de roupa suja.
