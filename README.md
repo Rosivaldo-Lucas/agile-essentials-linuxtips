@@ -135,4 +135,14 @@ A equipe escolhe a ordem em que as histórias serão apresentadas. A equipe, ent
 
 Histórias não consideradas prontas voltam para o próximo Sprint, a não ser que o PO tenha algo mais prioritário já colocado no topo do Product Backlog.
 
-A partir daí há duas opções: a equipe já faz a Sprint Planning para o período seguinte, aproveitando a presença do Product Owner, ou parte para a Revisão do Sprint, a gentil lavagem de roupa suja.
+A partir daí há duas opções: a equipe já faz a Sprint Planning para o período seguinte, aproveitando a presença do Product Owner, ou parte para a Retrospectiva do Sprint, a gentil lavagem de roupa suja.
+
+## Aula 11 - Sprint Retrospective
+
+Nessa reunião, a equipe decide se convida ou não o Product Owner.
+
+A Retrospectiva é um momento de celebração. É importante que todos se sintam gratificados pelo trabalho entregue, por saber que o PO está orgulhoso, que os usuários ficarão felizes com o que desenvolvemos e que sempre podemos melhorar.
+
+Sempre começamos qualquer retrospectiva sabendo que chegamos até aquele ponto fazendo, cada um e em equipe, o que foi possível fazer, exercitando o melhor de cada um e que, mesmo assim, sempre é possível melhorar um pouco mais. Se alguém discordar disso, aqui também é o momento para falar.
+
+Na retrospectiva ninguém aponta dedos. O resultado do que foi desenvolvido é propriedade coletive. A equipe é uma entidade única.
